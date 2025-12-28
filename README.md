@@ -15,7 +15,7 @@
 - 🧠 Strong interest in **Machine Learning & Data Analysis**
 - 📊 Comfortable with **Python, Pandas, NumPy**
 - 🔍 Learning **Scikit-learn & core Machine Learning**
-- 💡 Building **real-world ML projects**
+- 💡 Building **real-world ML & Data Analysis projects**
 - 🔥 Consistent learner & problem solver
 
 ---
@@ -54,19 +54,46 @@
 
 ---
 
+## 🚀 Projects
+
+### 🪔 Diwali Sales Analysis
+- Exploratory Data Analysis (EDA) on Diwali sales dataset  
+- Analyzed customer behavior based on **gender, age group, state, occupation, marital status, and product category**  
+- Created multiple visualizations to identify high-revenue customer segments  
+- Tools used: **Python, Pandas, NumPy, Matplotlib, Seaborn**
+
+🔗 **Repository:**  
+👉 https://github.com/vishalnadarge/diwali-sales-analysis
+
+---
+
+### 📊 Data Analysis Practice Projects
+- Small EDA projects for hands-on practice  
+- Focus on data cleaning, visualization, and insight generation  
+- Working with real-world datasets using Python  
+
+---
+
+### 🤖 Machine Learning Practice
+- Hands-on implementation of basic ML algorithms  
+- Supervised learning & classification models  
+- Focus on building strong fundamentals  
+
+---
+
 ## 🌱 Currently Learning
 
 - Machine Learning fundamentals
 - Model evaluation & improvement
-- Data analysis techniques
-- Project-based ML development
+- Exploratory Data Analysis techniques
+- Project-based learning in Data Science
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/vishalnadarge
-- 📧 Email: vishalnadarge2@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vishalnadarge  
+- 📧 Email: vishalnadarge2@gmail.com  
 
 ---
 
