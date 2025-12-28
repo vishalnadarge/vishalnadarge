@@ -6,14 +6,6 @@
 📊 Focused on Machine Learning, Data Analysis & Real-World Projects
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalnadarge&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnadarge&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
