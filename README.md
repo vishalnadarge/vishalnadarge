@@ -2,20 +2,28 @@
 <h3 align="center">Aspiring AI & Data Science Engineer | CSE @ SPPU</h3>
 
 <p align="center">
-🤖 Passionate about Artificial Intelligence & Data Science  
+🤖 Passionate about Artificial Intelligence & Data Science <br/>
 📊 Focused on Machine Learning, Data Analysis & Real-World Projects
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalnadarge&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnadarge&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Science Engineering student (SPPU)
+- 🎓 Computer Science Engineering student at **SPPU**
 - 🤖 Aspiring **AI & Data Science Engineer**
 - 🧠 Strong interest in **Machine Learning & Data Analysis**
 - 📊 Comfortable with **Python, Pandas, NumPy**
-- 🔍 Learning **Scikit-learn & core Machine Learning**
-- 💡 Building **real-world ML & Data Analysis projects**
+- 🔍 Learning **Scikit-learn & core ML concepts**
+- 💡 Building **real-world Data Analysis & ML projects**
 - 🔥 Consistent learner & problem solver
 
 ---
@@ -49,7 +57,7 @@
 
 - 🎖️ **Postman API Fundamentals – Student Expert**
 - 💡 **Contributor – GirlScript Summer of Code EXT 2024**
-- 🔥 **100 Days of Code – CodeWithHarry (Day 50+)**
+- 🔥 **100 Days of Code – CodeWithHarry (50+ days)**
 - 📚 Active learner in AI & Data Science
 
 ---
@@ -68,16 +76,16 @@
 ---
 
 ### 📊 Data Analysis Practice Projects
-- Small EDA projects for hands-on practice  
+- Hands-on EDA projects on real-world datasets  
 - Focus on data cleaning, visualization, and insight generation  
-- Working with real-world datasets using Python  
+- Continuous practice using Python data analysis libraries  
 
 ---
 
 ### 🤖 Machine Learning Practice
-- Hands-on implementation of basic ML algorithms  
+- Implementation of basic ML algorithms  
 - Supervised learning & classification models  
-- Focus on building strong fundamentals  
+- Focus on understanding concepts and workflows  
 
 ---
 
@@ -85,7 +93,7 @@
 
 - Machine Learning fundamentals
 - Model evaluation & improvement
-- Exploratory Data Analysis techniques
+- Advanced Exploratory Data Analysis (EDA)
 - Project-based learning in Data Science
 
 ---
